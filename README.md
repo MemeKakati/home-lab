@@ -19,6 +19,7 @@ This repo documents my home lab journey as I break into cybersecurity. I'm start
 
 ## My Learning Progress
 Date| Activity | Notes
+
 TBD | Started lab setup |
 
 ## Why I Made This
